@@ -1,0 +1,39 @@
+_repo: Honor--de-Balzac_3625
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cooper, Frederic Taber
+    alias: Cooper, Fridericus Taber
+    birthdate: 1864
+    deathdate: 1937
+    gutenberg_agent_id: '1245'
+    url: http://www.gutenberg.org/2009/agents/1245
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Taber_Cooper
+creator:
+  authors:
+  - agent_name: Lumet, Louis
+    birthdate: 1872
+    deathdate: 1923
+    gutenberg_agent_id: '1244'
+    url: http://www.gutenberg.org/2009/agents/1244
+  - agent_name: Keim, Albert
+    birthdate: 1876
+    deathdate: 1947
+    gutenberg_agent_id: '1243'
+    url: http://www.gutenberg.org/2009/agents/1243
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balzac, Honoré de, 1799-1850'
+- !lcc 'PQ'
+- !lcsh 'Novelists, French -- 19th century -- Biography'
+- GITenberg
+title: Honoré de Balzac
+url: http://www.gutenberg.org/ebooks/3625
