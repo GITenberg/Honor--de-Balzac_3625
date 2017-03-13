@@ -1,5 +1,5 @@
 _repo: Honor--de-Balzac_3625
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Cooper, Frederic Taber
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1245'
     url: http://www.gutenberg.org/2009/agents/1245
     wikipedia: http://en.wikipedia.org/wiki/Frederic_Taber_Cooper
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Lumet, Louis
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '1243'
     url: http://www.gutenberg.org/2009/agents/1243
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3625#Honor--de-Balzac
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
 identifiers:
